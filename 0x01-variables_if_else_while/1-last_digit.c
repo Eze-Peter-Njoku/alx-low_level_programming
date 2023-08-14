@@ -24,7 +24,7 @@ int main(void)
 }
 	else
 {
-	("%d and is greater than 5\n", n);
+	printf("%d and is greater than 5\n", n);
 }
 	return (0);
 }
