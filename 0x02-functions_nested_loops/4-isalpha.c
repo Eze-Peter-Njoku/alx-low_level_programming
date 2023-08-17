@@ -5,7 +5,7 @@
  *
  * @c: parameter to be checked
  *
- * Return: 1 if 'c' is a letter , lower or uppercase , 0 otherwise
+ * Return: 1 if 'c' is a letter , lowwer or uppercase , 0 otherwise
  */
 
 int _isalpha(int c)
