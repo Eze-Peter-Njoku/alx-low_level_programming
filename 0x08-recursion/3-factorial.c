@@ -1,3 +1,10 @@
+#include "main.h"
+
+/**
+* factorial - Entry point
+* @n: value of factorial
+* Return: factorial
+*/
 
 int factorial(int n)
 {
